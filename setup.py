@@ -2,6 +2,7 @@
 
 import re
 import sys
+import os
 import platform
 from setuptools import setup
 
